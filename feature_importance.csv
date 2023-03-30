@@ -1,0 +1,6 @@
+Modell,1. Feature,2. Feature,3. Feature
+XGBoost,geöffnet,Kunden,Werbeaktion
+Random Forest,Kunden,Werbeaktion,Angebot
+Gradient Boosting,Kunden,geöffnet,Wochentag
+Kombiniert,Kunden,geöffnet,Werbeaktion
+Durschnitt,Kunden,geöffnet,Werbeaktion
